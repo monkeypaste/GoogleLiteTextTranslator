@@ -1,0 +1,11 @@
+{
+  "title": "Traducteur de texte Google Lite",
+  "description": "Traducteur de texte libre",
+  "version": "1.0.0.0",
+  "author": "Monkey",
+  "guid": "daccbcfc-94a7-47dc-b824-b2cf2c48dc62",
+  "readmeUrl": "https://raw.githubusercontent.com/monkeypaste/GoogleLiteTextTranslator/master/README.md",
+  "projectUrl": "https://github.com/monkeypaste/GoogleLiteTextTranslator",
+  "iconUri": "https://raw.githubusercontent.com/monkeypaste/GoogleLiteTextTranslator/master/icon.png",
+  "tags": "Traducteur de langue, accessibilité, texte, Google, Google Lite"
+}
